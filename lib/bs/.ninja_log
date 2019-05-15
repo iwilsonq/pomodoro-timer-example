@@ -1,0 +1,12 @@
+# ninja log v5
+1	14	1557899245	ReactHooksTemplate.cmi	aeeca5a73aa25c52
+0	24	1557899245	src/Index.mlast	c9e79440a462826
+1	25	1557899245	src/Timer.mlast	bbff79d801d877d0
+24	30	1557899245	src/Index.mlast.d	da070a95e1592daf
+25	31	1557899245	src/Timer.mlast.d	c21d9e82cb3a21d1
+0	40	1557899245	src/Timer-ReactHooksTemplate.cmj	a1fa5be26b8f8e40
+0	40	1557899245	/Users/ianwilson/spirits-and-such/pomodoro-timer-example/lib/js/src/Timer.bs.js	a1fa5be26b8f8e40
+0	40	1557899245	src/Timer-ReactHooksTemplate.cmi	a1fa5be26b8f8e40
+40	59	1557899245	src/Index-ReactHooksTemplate.cmj	b2c76862faeff58b
+40	59	1557899245	/Users/ianwilson/spirits-and-such/pomodoro-timer-example/lib/js/src/Index.bs.js	b2c76862faeff58b
+40	59	1557899245	src/Index-ReactHooksTemplate.cmi	b2c76862faeff58b
