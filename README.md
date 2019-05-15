@@ -1,6 +1,6 @@
 # pomodoro-timer-example
 
-Check out the associated blog post at [dev.to](https://dev.to/iwilsonq/reasonml-with-react-hooks-tutorial-building-a-pomodoroi-timer-57h0)
+Check out the associated blog post on my site (ianwilson.io)[https://ianwilson.io/blog/reason-react-hooks-tutorial] or [dev.to](https://dev.to/iwilsonq/reasonml-with-react-hooks-tutorial-building-a-pomodoroi-timer-57h0).
 
 ## Run Project
 
